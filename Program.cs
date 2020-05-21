@@ -6,7 +6,16 @@ namespace MockAss2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] ints = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            foreach (int i in ints)
+            {
+                Console.WriteLine(i);
+            }
+            for (int i = 0; i > ints.Length; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }

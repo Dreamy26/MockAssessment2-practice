@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockAss2", "MockAss2.csproj", "{4F13A9B2-2167-451B-8EA4-62A9A5FC6604}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockAssess2", "MockAssess2.csproj", "{4F13A9B2-2167-451B-8EA4-62A9A5FC6604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
